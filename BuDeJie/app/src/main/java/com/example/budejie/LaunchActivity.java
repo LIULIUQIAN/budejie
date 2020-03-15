@@ -11,7 +11,6 @@ import android.widget.ImageView;
 
 public class LaunchActivity extends AppCompatActivity {
 
-    测试代码提交
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
